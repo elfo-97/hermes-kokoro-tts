@@ -1,0 +1,8 @@
+{
+  "name": "kokoro",
+  "label": "Kokoro TTS",
+  "description": "Language and voice picker for the local Kokoro-82M TTS.",
+  "icon": "Mic",
+  "version": "0.3.0",
+  "api": "plugin_api.py"
+}
